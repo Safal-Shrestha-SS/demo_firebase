@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "310489535785",
+    "project_id": "imalidemo",
+    "storage_bucket": "imalidemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310489535785:android:f785cbdb0a122551201338",
+        "android_client_info": {
+          "package_name": "com.example.imalidemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310489535785-uh3k21944077nj8em12pts0d70mf1mvr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imalidemo",
+            "certificate_hash": "786c826ecaaa2a06b28bafe5be587baefbe75c08"
+          }
+        },
+        {
+          "client_id": "310489535785-kvnd6llgcsh41qti51m0lpnhjvbdrvb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAsy24owwZ0VBYDDidnwG_PWInirwaInc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310489535785-kvnd6llgcsh41qti51m0lpnhjvbdrvb9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
